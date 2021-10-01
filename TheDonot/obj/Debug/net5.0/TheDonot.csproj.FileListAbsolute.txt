@@ -1,0 +1,16 @@
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.exe
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.deps.json
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.runtimeconfig.json
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.runtimeconfig.dev.json
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.dll
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\ref\TheDonot.dll
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\bin\Debug\net5.0\TheDonot.pdb
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.csproj.AssemblyReference.cache
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.AssemblyInfoInputs.cache
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.AssemblyInfo.cs
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.csproj.CoreCompileInputs.cache
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.dll
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\ref\TheDonot.dll
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.pdb
+C:\Users\Egeskov\source\repos\TheDonot\TheDonot\obj\Debug\net5.0\TheDonot.genruntimeconfig.cache
