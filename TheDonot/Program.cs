@@ -38,7 +38,7 @@ namespace TheDonot
                 float cosB = (float) Math.Cos(b),sinB = (float) Math.Cos(b);
 
                 Range[] output = {0..^screenhigth,0..^screenWitdt};
-                f
+                
                 Range[] zbuffer = {0..^screenhigth,0..^screenWitdt};
                 // int  = Convert.ToInt32(oldzbuffer);
                 //TODO HDHDHD
